@@ -1,0 +1,28 @@
+<a>sayta link verir
+<b> yazini qalinlasdirir
+<big> adinnanda gorunduyu kimiyazini boyudur
+<body>mene gore htmlde 2 eses tagdan biridir
+<center>yazimerkezde olur
+<font>bir nov reng verir
+<h> taglari yazuni boyuk ve qalin gosterir
+<i> yazinin formasini italic edir
+<img> sekil qoymaq ucun
+<hr>bele basa dusdumki xett qoyur
+<dt> neyise adlandirma
+<small>. balaca yazi
+<strike>ustu xett yazi
+<strong>guclu yazi 
+<td>table elave etmel
+<th>table basligi
+<title>web sehifenin basligi
+<u>altyazili 
+<adress>adreslerucundur
+<bdo.yazinin yonu ucundur
+<br/>alt setre kecmek ucun isaretdir
+<button>gonderme butonudur
+<code.kodlari gosterer
+<del>silinmis yazi
+<map> resm ucun parcalari gosterer
+<ul>seliqesiz list 
+<tt> ozel yazi
+<!doctype. tipi gosterer
